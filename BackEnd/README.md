@@ -14,8 +14,8 @@ laotie:
 - [golang源码分析](laotie/golang源码分析.md)
 
 半生瓜:
--[GC历史](半生瓜/学习笔记/GC历史.md)
--[HashMap](半生瓜/学习笔记/HashMap.md)
--[JVM](半生瓜/学习笔记/JVM.md)
--[Canal调研文档](半生瓜/调研文档/Canal调研文档.MD)
--[Pulsar调研报告](半生瓜/调研文档/Pulsar调研报告.md)
+- [GC历史](半生瓜/学习笔记/GC历史.md)
+- [HashMap](半生瓜/学习笔记/HashMap.md)
+- [JVM](半生瓜/学习笔记/JVM.md)
+- [Canal调研文档](半生瓜/调研文档/Canal调研文档.MD)
+- [Pulsar调研报告](半生瓜/调研文档/Pulsar调研报告.md)
