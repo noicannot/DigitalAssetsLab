@@ -17,4 +17,7 @@ Digital Assets Documentation
     - [laotie](BackEnd/laotie/README.md)
     - [README.md](BackEnd/README.md)
 - [区块链](Blockchain)
+    - [YuqingHan](Blockchain/YuqingHan)
+      - [Auction](Blockchain/YuqingHan/Auction)
+        - [Auction.md](Blockchain/YuqingHan/Auction/Auction.md)
     - [README.md](Blockchain/README.md)
