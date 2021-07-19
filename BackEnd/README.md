@@ -22,7 +22,7 @@ laotie:
 - [Pulsar调研报告](半生瓜/调研文档/Pulsar调研报告.md)
 
 张强:
-- [学习笔记地址](zhangqiang/Pulsar调研报告.md)
+- [学习笔记地址](zhangqiang/学习笔记地址.md)
 
 罗永辉：
 [垃圾回收算法及回收器]
