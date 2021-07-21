@@ -24,5 +24,5 @@ Digital Assets Documentation
     - [README.md](Blockchain/README.md)
     - [tanglu](Blockchain/tanglu)
       - [Ethereum](Blockchain/tanglu/Ethereum)  
-        - [MasteringEthereum01.md] (Blockchain/tanglu/Ethereum/MasteringEthereum01.md)
-        - [MasteringEthereum02.md] (Blockchain/tanglu/Ethereum/MasteringEthereum02.md)
+        - [MasteringEthereum01.md](Blockchain/tanglu/Ethereum/MasteringEthereum01.md)
+        - [MasteringEthereum02.md](Blockchain/tanglu/Ethereum/MasteringEthereum02.md)
