@@ -6,5 +6,5 @@
 - Bitcoin
 - Ethereum
 - [Auction](Auction)
-    -[auction.md](Auction/Auction.md)
+    - [auction.md](Auction/Auction.md)
 - NFT
