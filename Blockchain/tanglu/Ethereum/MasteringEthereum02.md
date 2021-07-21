@@ -16,7 +16,9 @@ Tip Ξ使用Unicode字符926，♦使用9830。
 以太的值总是在以太坊内部表示为wei，无符号整数值。当你处理1个以太网时，交易将编码1000000000000000000wei作为值。
 以太的各种单位既有使用国际单位系统（SI）的科学名称，也有口语化的名字。
 表Ether Denominations and Unit Names显示了各种单位，它们的俗名（通用）名称和他们的SI名称。为了与价值的内部表示保持一致，该表格显示了所有面值的wei（第一行），在第七行中ether显示为1* 10的18次方wei：
-![0c334c215af378d27a9ce80467b5c733.png](en-resource://database/897:1)
+
+![img](https://github.com/noicannot/DigitalAssetsLab/blob/main/Blockchain/tanglu/Ethereum/EtherDenominationsAndUnitNames.jpg)
+
 #### 选择一个以太坊钱包
 以太坊钱包拥有你的密钥，并且可以代表你创建和广播交易。以太坊本身在不断变化，“最好”的钱包往往是适应它们的。
 很容易更换钱包只需要将资金从旧钱包发送到新钱包，或者通过导出和导入私钥来移动密钥。
