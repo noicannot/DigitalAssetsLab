@@ -97,7 +97,7 @@ DApps拼写为DApps.D字符是拉丁字符，称为“ETH”，暗指以太坊�
 DApps的概念旨在将万维网引入下一个自然演进，将去中心化对等协议引入Web应用程序的每个方面。术语为Web3，意思是网络的第三个“版本”。从集中拥有和管理的应用程序到基于去中心化协议的应用程序。
 Ethereum+web3js+JavaScript库，它将你的浏览器中运行的JavaScript应用程序与以太坊区块链连接起来。web3.js库还包含一个名为Swarm的P2P存储网络接口和一个称为Whisper的P2P消息传递服务。通过在你的Web浏览器中运行的JavaScript库中包含这三个组件，开发人员可以使用完整的应用程序开发套件来构建web3 DApps：
 
-![e5a18b952ab023b0a72ddfd08f4a38d8.png](en-resource://database/789:1)
+![img](https://github.com/noicannot/DigitalAssetsLab/blob/main/Blockchain/tanglu/Ethereum/WEB3.jpg)
 
 #### 以太坊的开发文化
 在比特币中，开发以保守原则为指导：所有变化都经过仔细研究，以确保现有系统都不会中断。大部分情况下，只有在向后兼容时才会执行更改。允许现有客户“选择加入”，但如果他们决定不升级，将继续运作。
