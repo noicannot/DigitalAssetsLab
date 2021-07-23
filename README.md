@@ -6,6 +6,9 @@ Digital Assets Documentation
 
 - [大前端](UniversalFrontend)
     - [前端](UniversalFrontend/FrontEnd)
+    - [gmy](UniversalFrontend/FrontEnd/gmy/README.md)
+      - [vue](vue/request.md)
+        - [transition.md](vue/transition.md)
         - [README.md](UniversalFrontend/FrontEnd/README.md)
     - [移动端](UniversalFrontend/Mobile)
         - [Android](UniversalFrontend/Mobile/Android)
