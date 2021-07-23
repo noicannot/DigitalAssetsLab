@@ -73,5 +73,3 @@ class Ajax {
 }
 export default new Ajax();
 ```
-
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
