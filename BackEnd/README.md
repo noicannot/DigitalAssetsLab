@@ -22,7 +22,13 @@ laotie:
 - [Pulsar调研报告](半生瓜/调研文档/Pulsar调研报告.md)
 
 张强:
-- [学习笔记地址](zhangqiang/学习笔记地址.md)
+- [学习笔记地址](zhangqiang/README.md)
 
 罗永辉：
 [垃圾回收算法及回收器]
+
+孟鹤
+- [ArrayList数组扩容流程](./menghe/ArrayList数组扩容流程.md)
+- [MVCC原理](./menghe/MVCC原理.md)
+- [Redis数据结构及命令](./menghe/Redis数据结构及命令.md)
+
