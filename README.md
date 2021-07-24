@@ -6,6 +6,9 @@ Digital Assets Documentation
 
 - [大前端](UniversalFrontend)
     - [前端](UniversalFrontend/FrontEnd)
+    - [gmy](UniversalFrontend/FrontEnd/gmy/README.md)
+      - [vue](vue/request.md)
+        - [transition.md](vue/transition.md)
         - [README.md](UniversalFrontend/FrontEnd/README.md)
     - [移动端](UniversalFrontend/Mobile)
         - [Android](UniversalFrontend/Mobile/Android)
@@ -17,6 +20,7 @@ Digital Assets Documentation
     - [laotie](BackEnd/laotie/README.md)
     - [README.md](BackEnd/README.md)
     - [zhangqiang](BackEnd/zhangqiang/学习笔记地址.md)
+    - [郭飞](BackEnd/guofei/README.md)
 - [区块链](Blockchain)
     - [YuqingHan](Blockchain/YuqingHan)
       - [Auction](Blockchain/YuqingHan/Auction)

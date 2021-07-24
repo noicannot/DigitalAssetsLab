@@ -1,2 +1,12 @@
-博客地址：
-https://aquatic-message-03c.notion.site/Blog-File-0af1f5fff5e045a48f7fdc9cf93d8f90
+# 郭飞
+
+
+## 数据结构
+- [动态数组](动态数组.md)
+- [树的学习（一）](树的学习（一）.md)
+## 设计模式
+- [单例模式](单例模式.md)
+- [策略模式](策略模式.md)
+## 其他
+- [oauth2 协议学习](oauth2.md)
+- [mysql 数据库设计规范](mysql数据库设计规范.md)
