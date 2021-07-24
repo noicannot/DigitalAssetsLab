@@ -26,3 +26,9 @@ laotie:
 
 罗永辉：
 [垃圾回收算法及回收器]
+
+孟鹤
+- [ArrayList数组扩容流程](./menghe/ArrayList数组扩容流程.md)
+- [MVCC原理](./menghe/MVCC原理.md)
+- [Redis数据结构及命令](./menghe/Redis数据结构及命令.md)
+
