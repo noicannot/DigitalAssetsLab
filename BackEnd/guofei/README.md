@@ -7,6 +7,8 @@
 ## 设计模式
 - [单例模式](单例模式.md)
 - [策略模式](策略模式.md)
+## mysql
+- [mysql 数据库设计规范](mysql数据库设计规范.md)
+- [mysql 数据页学习](mysql数据页的学习.md)
 ## 其他
-- [oauth2协议学习](oauth2.md)
-- [mysql数据库设计规范](mysql数据库设计规范.md)
+- [oauth2 协议学习](oauth2.md)
