@@ -1,8 +1,5 @@
 # 后端学习文档
-主要成员：laotie、半生瓜、郭飞、罗永辉
-
-
-
+主要成员：laotie、半生瓜、郭飞、罗永辉、张强、孟鹤
 
 laotie:
 - [单例模式](laotie/单例模式.md)
@@ -13,6 +10,8 @@ laotie:
 - [线性表](laotie/线性表.md)
 - [bufio](laotie/bufio.md)
 - [golang源码分析](laotie/golang源码分析.md)
+- [数据结构-栈](laotie/栈.md)
+- [数据结构-串](laotie/串.md)
 
 半生瓜:
 - [GC历史](半生瓜/学习笔记/GC历史.md)
@@ -25,7 +24,7 @@ laotie:
 - [学习笔记地址](zhangqiang/README.md)
 
 罗永辉：
-[垃圾回收算法及回收器]
+- [垃圾回收算法及回收器]
 
 孟鹤
 - [ArrayList数组扩容流程](./menghe/ArrayList数组扩容流程.md)
