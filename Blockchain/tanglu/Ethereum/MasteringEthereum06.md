@@ -58,7 +58,7 @@ BIP-39可用于生产支持以太坊的多币种钱包，而Electrum种子不能
 4.将序列按照11bits划分。
 5.将每个11bits的值映射到预定义字典中的2048个词中的一个。
 6.助记词就是单词的序列。
-![8a7121e1e6d15dd26cc6571fb6ca9798.png](en-resource://database/907:1)
+![img](https://github.com/noicannot/DigitalAssetsLab/blob/main/Blockchain/tanglu/Ethereum/Mnemonic%20Words%20128-bit%20entrop.jpg)
 
 Mnemonic codes：entropy and word length展示熵数据的大小和助记词的长度关系。
 
