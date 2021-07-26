@@ -63,7 +63,7 @@ BIP-39可用于生产支持以太坊的多币种钱包，而Electrum种子不能
 Mnemonic codes：entropy and word length展示熵数据的大小和助记词的长度关系。
 
 Table 1. Mnemonic codes: entropy and word length
-![img](https://github.com/noicannot/DigitalAssetsLab/blob/main/Blockchain/tanglu/Ethereum/Mnemonic%20to%20Seed.jpg)
+![img](https://github.com/noicannot/DigitalAssetsLab/blob/main/Blockchain/tanglu/Ethereum/entropy%20and%20length.jpg)
 ##### 从助记词到种子
 
 助记符字表示长度为128到256位的熵。然后使用密钥扩展函数PBKDF2将熵导出成更长的（512位）种子。然后使用生成的种子构建确定性钱包并派生其密钥。
@@ -76,7 +76,7 @@ Table 1. Mnemonic codes: entropy and word length
 9.PBKDF2使用2048轮HMAC-SHA512哈希算法，扩展助记词和盐，生成512位的种子。
 
 展示如何使用助记词来生成种子。
-![66201ebfcb505553f643e47f46e972f8.png](en-resource://database/909:1)
+![img](https://github.com/noicannot/DigitalAssetsLab/blob/main/Blockchain/tanglu/Ethereum/Mnemonic%20to%20Seed.jpg)
 Tip 密钥扩展函数及其2048轮哈希对抵御助记词或密码攻击具有一定的有效保护作用。它使（在计算机中）尝试超过几千个密码和助记词组合的成本高昂，因为可能派生的种子数量很大（2的512次方）。
 
 ##### BIP-39中的可选密码短语
