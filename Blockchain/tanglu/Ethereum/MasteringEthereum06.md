@@ -150,4 +150,4 @@ m / purpose' / coin_type' / account' / change / address_index
 
 树的第三层“account”, 允许用户将他们的钱包分割成逻辑上的子账户，用于会计或组织管理目的。例如HD钱包可能包含两个以太坊“账户”： m/44'/60'/0' 和 m/44'/60'/1'. 每个账户都是自己的子树的根。
 由于BIP-44最初是为比特币创建的，因此它包含一个在以太坊世界中不相关的“怪癖”。在路径的第四层“change”时，HD钱包有两个子树，一个用于创建接收地址，另一个用于创建零钱地址。以太坊只使用“接收”路径，因为没有零钱地址这样的东西。请注意，虽然以前的层级使用强化派生，但此层级使用正常派生。这是为了允许树的这个层级导出扩展公钥在非安全环境中使用。可用地址由HD钱包作为第四级的孩子派生，使树的第五级成为“address_index”。例如，在主账户中以太坊付款的第三个接收地址为M/44'/60'/0'/0/2。BIP-44 HD wallet structure examples 展示了几个例子。
-![d12ef87adeb2409a300c5f0810c12f20.png](en-resource://database/911:1)
+![img](https://github.com/noicannot/DigitalAssetsLab/blob/main/Blockchain/tanglu/Ethereum/Table%206.%20BIP-44%20HD%20wallet%20structure%20examples.jpg)
