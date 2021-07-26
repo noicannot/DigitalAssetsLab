@@ -63,7 +63,7 @@ BIP-39可用于生产支持以太坊的多币种钱包，而Electrum种子不能
 Mnemonic codes：entropy and word length展示熵数据的大小和助记词的长度关系。
 
 Table 1. Mnemonic codes: entropy and word length
-![9cdc424c9c795eb80836894e78a22e0f.png](en-resource://database/905:1)
+![img](https://github.com/noicannot/DigitalAssetsLab/blob/main/Blockchain/tanglu/Ethereum/Mnemonic%20to%20Seed.jpg)
 ##### 从助记词到种子
 
 助记符字表示长度为128到256位的熵。然后使用密钥扩展函数PBKDF2将熵导出成更长的（512位）种子。然后使用生成的种子构建确定性钱包并派生其密钥。
