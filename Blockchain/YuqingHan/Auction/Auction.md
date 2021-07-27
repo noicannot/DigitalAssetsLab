@@ -335,7 +335,7 @@
 
 据最高人民法院最新通知，网络司法拍卖从 2017 年 9 月16 日开始，变卖期为 60 天，如有竞买人在 60 天内变卖期中的任一时间出价，则变卖自动进入到 24 小时竞价倒计时；24 小时竞价周期内，其他报名用户可加价参与竞买，竞价结束前 5 分钟内如有人出价，则系统自动向后延时 5 分钟（循环往复至最后 5 分钟内无人出价）。
 
-![img](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa650c9bd-5369-4280-b320-5f54bc46f01e%2FUntitled.png?table=block&id=1ac6bf20-832d-4bbb-a7b7-72ceaf871537&spaceId=60ca1edb-2635-4407-9e59-c9b30fd5cea5&width=3840&userId=5e299d3b-e72c-468b-8871-3199bbe4f257&cache=v2)
+![img](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa650c9bd-5369-4280-b320-5f54bc46f01e%2FUntitled.png?table=block&id=1ac6bf20-832d-4bbb-a7b7-72ceaf871537&spaceId=60ca1edb-2635-4407-9e59-c9b30fd5cea5&width=3840&userId=5e299d3b-e72c-468b-8871-3199bbe4f257&cache=v2 "淘宝司法拍卖流程")
 
 <center>淘宝司法拍卖流程</center>
 
