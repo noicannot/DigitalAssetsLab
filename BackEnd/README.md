@@ -12,6 +12,7 @@ laotie:
 - [golang源码分析](laotie/golang源码分析.md)
 - [数据结构-栈](laotie/栈.md)
 - [数据结构-串](laotie/串.md)
+- [字符串叠加处理](连续数字字符串的创建.md)
 
 半生瓜:
 - [GC历史](半生瓜/学习笔记/GC历史.md)
