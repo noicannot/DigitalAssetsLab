@@ -13,4 +13,4 @@
     - [MasteringEthereum08.md](Ethereum/MasteringEthereum08.md) 
 - Solidity
 - [Extra](Extra)
-    -[Sequencer.md](Extra/Sequencer.md)
+    - [Sequencer.md](Extra/Sequencer.md)
