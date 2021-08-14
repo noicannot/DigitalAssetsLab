@@ -93,7 +93,7 @@ Mysql 利用存储用户记录的数据页来存储目录项，为了和用户�
 
 把目录项放到数据页中大概就是这样的：
 
-<img src="/Users/guogoffy/Library/Application Support/typora-user-images/image-20210809191704253.png" alt="image-20210809191704253" style="zoom:50%;" />
+  ![20210809191704253.png](img/image-20210809191704253.png)
 
 这个时候需要区分目录项和用户记录的不同：
 
