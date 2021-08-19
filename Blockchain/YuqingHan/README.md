@@ -15,4 +15,6 @@
   - [NTF_HTMLOfValueInternet.md](NFT/NTF_HTMLOfValueInternet.md)
   - [NFTAndToken.md](NFT/NFTAndToken.md)
   - [Metaverse.md](NFT/Metaverse.md)
+- [Token](Token)
+  - [Stablecoins.md](Token/Stablecoins.md)
 - [README.md](README.md)
