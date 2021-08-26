@@ -42,6 +42,7 @@ Digital Assets Documentation
         - [NTF_HTMLOfValueInternet.md](Blockchain/YuqingHan/NFT/NTF_HTMLOfValueInternet.md)
         - [NFTAndToken.md](Blockchain/YuqingHan/NFT/NFTAndToken.md)
         - [Metaverse.md](Blockchain/YuqingHan/NFT/Metaverse.md)
+        - [NFT_Infrastructure.md](Blockchain/YuqingHan/NFT/NFT_Infrastructure.md)
       - [Token](Blockchain/YuqingHan/Token)
         - [Stablecoins.md](Blockchain/YuqingHan/Token/Stablecoins.md)
       - [README.md](Blockchain/YuqingHan/README.md)
