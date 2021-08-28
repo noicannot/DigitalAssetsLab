@@ -11,8 +11,9 @@
 - [策略模式](策略模式.md)
 ## mysql
 - [mysql 数据库设计规范](mysql数据库设计规范.md)
-- [mysql 数据页的学习](mysql数据页的学习.md)
-- [mysql 索引的学习](mysql索引的学习.md)
-- [mysql 缓冲池的学习](mysql缓冲池的学习.md)
+- [mysql 数据页](mysql数据页.md)
+- [mysql 索引](mysql索引.md)
+- [mysql 缓冲池](mysql缓冲池.md)
+- [mysql 索引优化](mysql索引优化.md)
 ## 其他
 - [oauth2 协议学习](oauth2.md)
