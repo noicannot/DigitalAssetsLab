@@ -16,5 +16,6 @@
 - [mysql 缓冲池学习](mysql缓冲池.md)
 - [mysql 索引优化学习](mysql索引优化.md)
 - [mysql 事务学习](mysql事务.md)
+- [mysql 锁和 MVCC 学习（一）](mysql锁和MVCC学习1.md)
 ## 其他
 - [oauth2 协议学习](oauth2.md)
