@@ -19,3 +19,5 @@
 - [mysql 锁和 MVCC 学习（一）](mysql锁和MVCC学习1.md)
 ## 其他
 - [oauth2 协议学习](oauth2.md)
+- [数据脱敏解决方案及场景](数据脱敏解决方案和场景.md)
+- [shardingSphere 脱敏演练](shardingSphere脱敏演练.md)
