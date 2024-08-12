@@ -1,7 +1,9 @@
 # 后端学习文档
+
 主要成员：laotie、半生瓜、郭飞、罗永辉、张强、孟鹤
 
 laotie:
+
 - [单例模式](laotie/单例模式.md)
 - [经典排序算法上](laotie/经典排序算法上.md)
 - [经典排序算法下](laotie/经典排序算法下.md)
@@ -16,6 +18,7 @@ laotie:
 - [椭圆曲线算法ECDSA](laotie/ECDSA.md)
 
 半生瓜:
+
 - [GC历史](半生瓜/学习笔记/GC历史.md)
 - [HashMap](半生瓜/学习笔记/HashMap.md)
 - [JVM](半生瓜/学习笔记/JVM.md)
@@ -23,13 +26,15 @@ laotie:
 - [Pulsar调研报告](半生瓜/调研文档/Pulsar调研报告.md)
 
 张强:
+
 - [学习笔记地址](zhangqiang/README.md)
 
 罗永辉：
+
 - [垃圾回收算法及回收器]
 
 孟鹤
+
 - [ArrayList数组扩容流程](./menghe/ArrayList数组扩容流程.md)
 - [MVCC原理](./menghe/MVCC原理.md)
 - [Redis数据结构及命令](./menghe/Redis数据结构及命令.md)
-
